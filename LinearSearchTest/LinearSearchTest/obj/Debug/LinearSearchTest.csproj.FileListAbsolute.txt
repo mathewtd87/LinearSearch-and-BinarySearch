@@ -1,0 +1,5 @@
+/Users/Mathew/Projects/LinearSearchTest/LinearSearchTest/bin/Debug/LinearSearchTest.exe
+/Users/Mathew/Projects/LinearSearchTest/LinearSearchTest/bin/Debug/LinearSearchTest.pdb
+/Users/Mathew/Projects/LinearSearchTest/LinearSearchTest/obj/Debug/LinearSearchTest.csprojAssemblyReference.cache
+/Users/Mathew/Projects/LinearSearchTest/LinearSearchTest/obj/Debug/LinearSearchTest.exe
+/Users/Mathew/Projects/LinearSearchTest/LinearSearchTest/obj/Debug/LinearSearchTest.pdb
